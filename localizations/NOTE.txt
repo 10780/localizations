@@ -1,0 +1,5 @@
+
+^info about localization w gettext, has more details
+
+Included are some .php files that deal w localizing in 7 languages based on location
+this is a start
